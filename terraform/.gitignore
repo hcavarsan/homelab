@@ -1,0 +1,8 @@
+.terraform
+.terraform.lock.hcl
+*.tfstate*
+*.auto.tfvars
+talosconfig.yaml
+kubeconfig.yaml
+proxmox-ccm
+proxmox-token.json

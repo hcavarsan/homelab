@@ -1,0 +1,10 @@
+terraform.tfstate*
+
+talosconfig
+
+.terraform*
+
+.env
+
+
+
